@@ -20,6 +20,7 @@ public class TipeData {
         long iniLong = iniInteger;
         float iniFloat = iniInteger;
         
+        //float iniFloat2 = (float) 
         
     }
 }
