@@ -20,6 +20,12 @@ public class TipeData {
         long iniLong = iniInteger;
         float iniFloat = iniInteger;
         
+        //konversi value
+        int iniInt = 100;
+        Integer iniObject = iniInt;
+        short iniShrt = iniObject.shortValue();
+        
+        
         //float iniFloat2 = (float) 
         
     }
